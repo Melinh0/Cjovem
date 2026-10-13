@@ -1,0 +1,12 @@
+selenium
+flask
+requests
+pyautogui
+pyperclip
+pandas
+openpyxl
+python-dotenv
+matplotlib
+unidecode
+PyPDF2
+numpy==2.2.6
